@@ -6,7 +6,7 @@ Landing Page AatifArsaan.CoderBoy
 IDE- Brackets/VS Code
 
 # Tech Stack:
-HTML, CSS and Bootstrap4
+HTML, CSS, JavaScript and Bootstrap4
 
 <img src= "Landing Page.png"/>
 <img src= "Landing-Page.png"/>
